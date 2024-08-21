@@ -1,3 +1,14 @@
+## Note
+
+I modified a .db file and some scripts to be able to load an editor for mi watch lite - idk if that will compile well enough to work
+Dont use this yet - I gotta confirm everything works
+
+Active.bin - legit xiaomi mi lite watch watchface
+MojSat/ - folder with my test-project
+
+## --
+
+
 <br />
 <h2 align="center"> Mi Create </h2>
 <p align="center"> Unofficial watchface creator for Xiaomi Wearables. Compatible with all Xiaomi wearables made ~2021 and above </p>
