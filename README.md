@@ -6,7 +6,7 @@ Dont use this yet - I gotta confirm everything works
 Active.bin - legit xiaomi mi lite watch watchface
 MojSat/ - folder with my test-project
 
-## --
+## -- Fork of https://github.com/ooflet/Mi-Create/tree/main/src
 
 
 <br />
