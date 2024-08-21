@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<FaceProject DeviceType="420">
+	<Screen Title="" Bitmap="">
+		<Widget Shape="30" Name="background" Bitmap="austria640.jpg" X="-286" Y="-89" Width="960" Height="640" Alpha="250" Visible_Src="0"/>
+		<Widget Shape="32" Name="sat" BitmapList="|1.jpg|||||||||-" X="31" Y="35" Width="48" Height="48" Alpha="255" Visible_Src="Hour" Digits="1" Alignment="0" Value_Src="811" Spacing="0" Blanking="0"/>
+		<Widget Shape="32" Name="widget-0" BitmapList="|5.jpg" X="79" Y="35" Width="48" Height="48" Alpha="255" Visible_Src="Hour High" Digits="1" Alignment="0" Value_Src="0" Spacing="0" Blanking="0"/>
+	</Screen>
+</FaceProject>

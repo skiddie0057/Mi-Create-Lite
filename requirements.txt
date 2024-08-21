@@ -1,0 +1,7 @@
+PyQt6
+PyQt6-QScintilla
+qt6-applications
+xmltodict
+requests
+
+pywin32; sys_platform == "win32"
