@@ -6,6 +6,17 @@ Dont use this yet - I gotta confirm everything works
 Active.bin - legit xiaomi mi lite watch watchface
 MojSat/ - folder with my test-project
 
+Current problem: 
+    * Compiler expects device
+        it uses <FaceProject DeviceType="420">
+        the 420 being the device type 
+            adding support to the binary is difficult, since we dont have the original source code
+
+NOTE: 
+    Issue: Compiler expects only certain watch types. 
+<Screen Title="" Bitmap=""> these fields in your xml HAVE To have values
+    if you are asked to provide a bitmap that's 0x0 - thats the issue im talking about ^
+
 ## -- Fork of https://github.com/ooflet/Mi-Create/tree/main/src
 
 
