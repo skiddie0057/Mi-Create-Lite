@@ -11,7 +11,8 @@ Current problem:
         it uses <FaceProject DeviceType="420">
         the 420 being the device type 
             adding support to the binary is difficult, since we dont have the original source code
-
+    > if we compile it as a  mi watch 2 instead of patching the binary ? 
+    
 NOTE: 
     Issue: Compiler expects only certain watch types. 
 <Screen Title="" Bitmap=""> these fields in your xml HAVE To have values
